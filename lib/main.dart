@@ -16,6 +16,8 @@ void main() {
 
 // Головний клас додатку
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -58,6 +60,7 @@ class StudentListScreen extends StatelessWidget {
       gender: Gender.male,
     ),
   ];
+
 
   // Вибір кольору залежно від статі
   Color _getGenderColor(Gender gender) {
