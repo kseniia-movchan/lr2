@@ -1,0 +1,1 @@
+ /Users/admin/projects\ flutter/kseniia_sksm_24_1/.dart_tool/flutter_build/9b7e40291a208251e5dc9b45f87ced7f/native_assets.yaml: 
